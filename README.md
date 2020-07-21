@@ -15,9 +15,15 @@
 
 Hi, I'm Keith, SPRD from @baidu 👋 
 
-- 🔭  I’m currently working on performance and quality of FE.
-- 🌱  I’m currently learning Rust and wasm.
-- ⚡   Fun fact: ...
+🔭  I’m currently working on performance and quality of FE.
+
+
+🌱  I’m currently learning Rust and wasm.
+
+
+⚡   Fun fact: ...
+
+
 
 
 **Languages and Tools:**  
