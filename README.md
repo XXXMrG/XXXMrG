@@ -3,7 +3,7 @@
 <a href="https://github.com/anuraghazra/github-readme-stats"><img align="right" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=XXXMrG&show_icons=true&theme=onedark" alt="Keith's github stats" /></a>
 
 </a>
-<a href="https://twitter.com/XXXMrG">
+<a href="https://twitter.com/XXMr_GG">
   <img align="left" alt="Keith | Twitter" width="21px" src="https://raw.githubusercontent.com/XXXMrG/XXXMrG/master/assets/twitter.svg" />
 </a>
 <a href="https://www.instagram.com/x_x_keith">
