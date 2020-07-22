@@ -1,6 +1,7 @@
+> “弃恶离善执中道，不以形物役吾心。”—梵罗达尼教义
+
 ### Hi there, I'm [Keith!](https://xkeith.tech) 👋
 
-> “弃恶离善执中道，不以形物役吾心。”—梵罗达尼教义
 
 <a href="https://github.com/anuraghazra/github-readme-stats"><img align="right" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=XXXMrG&show_icons=true&theme=cobalt" alt="Keith's github stats" /></a>
 
