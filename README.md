@@ -3,7 +3,7 @@
 ### Hi there, I'm [Keith!](https://xkeith.tech) 👋
 
 
-<a href="https://github.com/anuraghazra/github-readme-stats"><img align="right" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=XXXMrG&show_icons=true&theme=cobalt" alt="Keith's github stats" /></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="right" src="https://keith-grs.vercel.app/api?username=XXXMrG&show_icons=true&theme=cobalt" alt="Keith's github stats" /></a>
 
 </a>
 <a href="https://twitter.com/XXMr_GG">
