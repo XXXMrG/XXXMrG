@@ -35,5 +35,5 @@ Hi, I'm Keith, SPRD from @baidu 🧐
 
 <br />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XXXMrG&layout=compact" alt="Top Langs" align="right"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XXXMrG&layout=compact" alt="Top Langs"/>
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=XXXMrG" alt="wakatime" />
