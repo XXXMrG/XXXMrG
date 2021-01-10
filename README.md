@@ -24,7 +24,7 @@ Hi, I'm Keith, SPRD from @baidu 🧐
 🌱  I’m currently learning Rust, Vim and wasm.
 
 
-⚡   Fun fact: ...
+⚡   Fun fact: ICG, 
 
 
 **Languages and Tools:**  
