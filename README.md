@@ -7,6 +7,6 @@
 
 Hi, I'm Keith, now in baidu 🧐
 
-This cover from SECRET;WEAPON【from CytusⅡ】 by NOMA
+This cover is SECRET;WEAPON【from CytusⅡ】 by NOMA
 
 
