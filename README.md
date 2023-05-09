@@ -5,7 +5,7 @@
 
 <img align="center" src="https://github.com/XXXMrG/SECRET-WEAPON/blob/master/SECRET-WEAPON.png" alt="show" />
 
-Hi, I'm Keith, now in baidu 🧐
+Hi, I'm Keith, now looking for a better work. 🧐
 
 This cover is SECRET;WEAPON【from CytusⅡ】 by NOMA
 
