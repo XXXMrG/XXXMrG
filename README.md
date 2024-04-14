@@ -7,6 +7,9 @@
 
 Hi, I'm Keith, now work in Baidu.Inc. 🧐
 
+I'm Looking for a WLB job, you can check my resume at [Keith Resume](https://resume.xxkeith.com/)
+
+
 This cover is SECRET;WEAPON【from CytusⅡ】 by NOMA
 
 
