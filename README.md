@@ -7,7 +7,7 @@
 
 Hi, I'm Keith, I am leaving Baidu.Inc. 🧐
 
-I'm Looking for a WLB job, you can check my resume at [Keith Resume](https://resume.xxkeith.com/)
+You can check my Blog at [Keith's Blog](https://xxkeith.com/)
 
 
 *This cover is SECRET;WEAPON【from CytusⅡ】 by NOMA*
