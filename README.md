@@ -5,7 +5,7 @@
 
 <img align="center" src="https://github.com/XXXMrG/SECRET-WEAPON/blob/master/SECRET-WEAPON.png" alt="show" />
 
-Hi, I'm Keith, I am leaving Baidu.Inc. 🧐
+Hi, I'm Keith 🧐
 
 You can check my Blog at [Keith's Blog](https://xxkeith.com/)
 
